@@ -3,11 +3,11 @@
   "presets" : [
     {
       "presetId" : "aquachek-7",
-      "version" : 4,
+      "version" : 5,
       "path" : "presets/aquachek-7.json",
       "vendor" : "AquaChek",
       "model" : "7-Way",
-      "sha256" : "62e824bd1abc4f85b162683fe8bd8317e80de8d12a8b636cd679a2529b75c5ae"
+      "sha256" : "2a815bfbec158d8509d04bc2839ed2b7c2a7899f41f44725feaa250c9856fdea"
     }
   ]
 }
