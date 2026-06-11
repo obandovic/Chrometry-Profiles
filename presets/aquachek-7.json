@@ -1,4 +1,5 @@
 {
+  "contexts": ["pool", "spa"],
   "model": "7-Way",
   "note": "Swatch colors calibrated from flat per-test bottle chart crops via tools/curate_profile.py. Geometry (first/last swatch x-fraction) read from the crops; sampling and sRGB->Lab are deterministic.",
   "presetId": "aquachek-7",
@@ -311,7 +312,7 @@
     }
   ],
   "vendor": "AquaChek",
-  "version": 7,
+  "version": 8,
   "whiteReference": {
     "L": 82.41,
     "a": -1.239,
