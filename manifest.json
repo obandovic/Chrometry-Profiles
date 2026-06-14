@@ -1,6 +1,6 @@
 {
   "schemaVersion" : 1,
   "presets" : [
-    { "presetId" : "aquachek-7", "version" : 8, "path" : "presets/aquachek-7.json", "vendor" : "AquaChek", "model" : "7-Way", "sha256" : "9525d8b2f3fca4ad70394ce69ea975e50fd0e138e6aab13c92855f70bdb93c38" }
+    { "presetId" : "aquachek-7", "version" : 9, "path" : "presets/aquachek-7.json", "vendor" : "AquaChek", "model" : "7-Way", "sha256" : "c60c91c1309f4f5b6de07c17ac88ace8b30d89344dcc87a14d0c66fb354f5553" }
   ]
 }
